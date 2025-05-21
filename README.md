@@ -15,23 +15,37 @@ Model optimization
 
 💡 Key Features
 ✔ Multi-algorithm approach: Comparative analysis of 3 ML models
+
 ✔ Production-ready design: Clean Python implementation
+
 ✔ Robust evaluation: Comprehensive metrics reporting
+
 ✔ Scalable architecture: Modular code structure
 
 🛠 Technical Implementation
+
 Component	Technologies Used
+
 Core ML	Scikit-learn (RF, SVM, NN)
+
 Data Processing	Pandas, NumPy
+
 Visualization	Matplotlib, Seaborn
-Code Quality	PEP8, Modular Design
+
 📈 Model Performance
+
 Algorithm	Accuracy	Precision	Recall
+
 Random Forest	85.53%	0.86	0.91
+
 SVM (RBF Kernel)	82.24%	0.83	0.89
+
 Neural Network	85.53%	0.87	0.91
+
 🏗 Project Structure
+
 bash
+
 parkinson-prediction/
 ├── data_preprocessing.py    # Feature engineering pipeline
 ├── model_training.py        # Hyperparameter tuning
