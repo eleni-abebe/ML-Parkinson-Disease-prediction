@@ -1,4 +1,5 @@
 🎯 Parkinson's Disease Prediction System
+
 By Eleni Abebe (BSc Software Engineering, Addis Ababa University)
 📧 Contact: eleniabebe0526@gmail.com
 
@@ -6,8 +7,6 @@ By Eleni Abebe (BSc Software Engineering, Addis Ababa University)
 An efficient machine learning system that predicts Parkinson's disease with 85.5% accuracy using vocal features. Designed as an accessible diagnostic aid, this project demonstrates strong skills in:
 
 End-to-end ML pipeline development
-
-Clinical data processing
 
 Model optimization
 
@@ -49,4 +48,3 @@ pip install -r requirements.txt
 ✅ Ability to implement complete ML solutions
 ✅ Strong foundation in Scikit-learn and data science
 ✅ Clean, maintainable code practices
-✅ Understanding of medical ML applications
