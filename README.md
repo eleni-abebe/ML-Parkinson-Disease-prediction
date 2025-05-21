@@ -47,21 +47,33 @@ Neural Network	85.53%	0.87	0.91
 bash
 
 parkinson-prediction/
+
 ├── data_preprocessing.py    # Feature engineering pipeline
+
 ├── model_training.py        # Hyperparameter tuning
+
 ├── predict_parkinson.py     # Production inference
+
 └── requirements.txt         # Environment setup
 
 🛠️ Setup Guide
+
 Clone repository:
 
 bash
+
 git clone https://github.com/eleniabebe/parkinson-prediction.git
+
 Install dependencies:
 
 bash
+
 pip install -r requirements.txt
+
 🏆 What This Demonstrates
+
 ✅ Ability to implement complete ML solutions
+
 ✅ Strong foundation in Scikit-learn and data science
+
 ✅ Clean, maintainable code practices
